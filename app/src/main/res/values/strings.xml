@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">I Love It Test</string>
+    <string name="search">Search</string>
+    <string name="search_now">Search now</string>
+    <string name="load_error">Unable to load data,\nplease try again later</string>
+
+    <string name="productTitle">Product</string>
+    <string name="productPrice">Price</string>
+    <string name="productPriceOriginal">Original Price</string>
+    <string name="productCurrency">Currency</string>
+    <string name="unknownTitle">UNKNOWN TITLE</string>
+
+    <string name="page">Page %s</string>
+    <string name="first_page">First page</string>
+    <string name="previous_page">Previous page</string>
+    <string name="next_page">Next page</string>
+    <string name="last_page">Last page</string>
+    <string name="productDelivery">Delivery</string>
+    <string name="productStars">Stars</string>
+    <string name="productImage">Product image</string>
+    <string name="linkToProduct">Link to product</string>
+    <string name="search_results">Search results</string>
+</resources>

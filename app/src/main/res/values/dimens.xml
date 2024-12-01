@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="outer_margin">20dp</dimen>
+    <dimen name="outer_margin_small">10dp</dimen>
+    <dimen name="inner_padding">5dp</dimen>
+    <dimen name="circle_size">20dp</dimen>
+    <dimen name="spinner_size">64dp</dimen>
+
+</resources>
